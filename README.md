@@ -1,15 +1,3 @@
-<div align="center">
-    <img src="App/Assets/Images/TOM-Legend.png" alt="Logo" width="100%">
-</div>
-
-# TheCodingMachine React Native boilerplate
-
-Project for scanning images using react native boilerplate
-
-```
-If you love this boilerplate, give us a star, you will be a ray of sunshine in our lives :)
-```
-
 ## Architecture
 
 The driving goal of the architecture of the boilerplate is separation of concerns. Namely:
